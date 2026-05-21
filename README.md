@@ -253,17 +253,3 @@ Contributions are welcome.
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👩‍💻 Author
-
-Anushka Gupta
-
-GitHub: [GitHub Profile](https://github.com/AnushkaGupta27?utm_source=chatgpt.com)
-
-[1]: https://github.com/KazKozDev?utm_source=chatgpt.com "KazKozDev (Artem KK) · GitHub"
